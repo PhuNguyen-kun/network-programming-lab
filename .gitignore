@@ -1,0 +1,11 @@
+# Ignore all files in root folder without extension
+[!.]*
+
+# But keep source code and config files
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.md
+!*.gitignore
+!CMakeLists.txt
